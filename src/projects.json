@@ -1,0 +1,34 @@
+ { "allProjects":
+    [ 
+    {
+      "projectId": "reactnodeapp2023",
+      "title": "React + Node Api",
+      "description": "Sitio donde cada usuario puede crear publicaciones, comentar, seguir otros usuarios, y dar like a sus publicaciones. Use React, CSS, axios, hooks, custom hooks, graphql y para la api nodejs, express, apollo,  mongoose, y base de datos mongodb",
+      "link": "https://turquoise-angler-cuff.cyclic.app",
+      "img": "/images/reactnodeapp.jpg"
+    },
+    {
+      "projectId": "moviesapp2023",
+      "title": "Moviesapp",
+      "description": "Sitio para buscar películas o series, ver información sobre ellas y su valoración de usuarios. Usa una api externa para las consultas.",
+      "link": "https://keko333z.github.io/moviesapp/",
+      "img": "/images/movieapp.jpg"
+    },
+    {
+      "projectId": "ecommerce2023",
+      "title": "E-commerce",
+      "description": "Proyecto de tienda online, se puede agregar productos al carrito y realizar la carga de datos personales para el envío del pedido.",
+      "link": "https://keko333z.github.io/onlineStore/",
+      "img": "/images/ecommerce.jpg"
+    },
+    {
+      "projectId": "sorteos2023",
+      "title": "App sorteo",
+      "description": "App para elegir un numero de ganadores a partir de una lista",
+      "link": "https://keko333z.github.io/sorteos/",
+      "img": "/images/sorteos.jpg"
+    }
+    
+  
+    ]
+  }
