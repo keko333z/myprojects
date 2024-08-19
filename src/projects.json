@@ -1,5 +1,12 @@
  { "allProjects":
     [ 
+      {
+        "projectId": "Flags game",
+        "title": "Flags",
+        "description": "Juego donde dado un nombre de un pais hay que elegir la opción correcta. Creado con React, TypeScript, Apis y desplegado en Github Pages ",
+        "link": "https://keko333z.github.io/flags/",
+        "img": "./images/flags.jpg"
+      },
     {
       "projectId": "reactnodeapp2023",
       "title": "React + Node Api",
